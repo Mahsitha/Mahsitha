@@ -5,7 +5,7 @@
 I'm a DevOps Enthusiast and a Computer Science student at CMR College of Engineering & Technology.
 I’m passionate about automation, cloud infrastructure, CI/CD pipelines, and building real-world projects that solve modern tech problems.
 
-I also enjoy AI, Machine Learning labs, offline AI experiments, and I'm currently working on my personal voice assistant project to showcase in my portfolio.
+
 
 ## 🎓 Education
 
